@@ -1,0 +1,4 @@
+<?php
+$score=100;
+echo "成绩：".$score;
+?>
